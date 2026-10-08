@@ -1,6 +1,5 @@
-// ---- shared config ----
-// Sohail's birthday: October 9
-const BIRTHDAY_MONTH = 9; // 0-indexed: October
+
+const BIRTHDAY_MONTH = 9; 
 const BIRTHDAY_DAY = 9;
 
 function getNextBirthday() {
